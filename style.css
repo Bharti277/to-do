@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 .todo_container{
-    background-color: aquamarine;
+    background-color: rgb(230, 232, 236);
     width: 100%;
     min-height: 100vh;
     padding-top: 100px;
@@ -12,7 +12,7 @@
 .todo_app{
     width: 100%;
     max-width: 540px;
-    border: 2px solid red;
+    border: 2px solid rgb(17, 119, 252);
     margin: 0 auto; 
     padding: 40px;
 }
